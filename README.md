@@ -13,6 +13,19 @@ With 8+ years of software development experience, my work focuses on Oracle APEX
 - **Reporting and web:** JasperReports, APEX Office Print (AOP), HTML, CSS, and JavaScript.
 - **Delivery and support:** Git, Apache Tomcat, Nginx, troubleshooting, and production support.
 
+## Featured enterprise project — Golden Cloud
+
+**Bilingual, multi-tenant recruitment SaaS platform**  
+Golden Network for Information Systems Technology · August 2022–August 2026
+
+I was the primary developer on the project, handling requirements analysis, database design, PL/SQL packages and business logic, Oracle APEX applications, and reports. I completed most of the development within the project team and also provided maintenance and technical support.
+
+The platform covered recruitment, service transfers, worker rental, HR, accounting, and subscriptions.
+
+**Technologies:** Oracle APEX, Oracle Database, SQL, PL/SQL, ORDS, and APEX Office Print (AOP).
+
+[Watch system demonstrations on the Golden Cloud YouTube channel](https://www.youtube.com/@GoldenCloud_1)
+
 ## Selected work
 
 | Project | What it demonstrates |
@@ -24,8 +37,6 @@ With 8+ years of software development experience, my work focuses on Oracle APEX
 | [Oracle APEX Interactive Grid example](https://github.com/mahmoodsufyan/apex_IG_hide_columns) | A practical SQL and JavaScript example for showing and hiding Interactive Grid columns. |
 
 The Python demos are separate portfolio implementations. The linked case studies describe my Oracle APEX, PL/SQL, and ORDS work; the demos do not contain the original enterprise applications.
-
-My enterprise experience also includes Golden Cloud, a bilingual, multi-tenant recruitment SaaS platform with HR, accounting, and subscription workflows.
 
 ## Contact
 
