@@ -17,6 +17,8 @@ With 8+ years of software development experience, my work focuses on Oracle APEX
 
 | Project | What it demonstrates |
 | --- | --- |
+| **Oracle APEX accounting and ERP core** — private project | Accounting, sales, purchasing, and inventory workflows using Oracle APEX, PL/SQL, and ORDS. An existing application core with further SaaS capabilities planned; not presented as a completed SaaS ERP. |
+| **APEX AI Lab** — private experimental project | Exploring AI-assisted Oracle APEX development with APEXlang, SQLcl, and a validated export/edit/import workflow. Local-model integration is under investigation. |
 | [Loan and amortization engine](https://github.com/mahmoodsufyan/loan-management-system) | Public Python/FastAPI demo of repayment calculations and credit workflows. [Oracle implementation case study](https://github.com/mahmoodsufyan/loan-management-system/blob/main/docs/CASE_STUDY.md). |
 | [Financial ledger API](https://github.com/mahmoodsufyan/financial-ledger-api) | Public Python/FastAPI demo of double-entry accounting and voucher workflows. [Oracle implementation case study](https://github.com/mahmoodsufyan/financial-ledger-api/blob/main/docs/CASE_STUDY.md). |
 | [Oracle APEX Interactive Grid example](https://github.com/mahmoodsufyan/apex_IG_hide_columns) | A practical SQL and JavaScript example for showing and hiding Interactive Grid columns. |
