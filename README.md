@@ -24,6 +24,8 @@ The platform covered recruitment, service transfers, worker rental, HR, accounti
 
 **Technologies:** Oracle APEX, Oracle Database, SQL, PL/SQL, ORDS, and APEX Office Print (AOP).
 
+[Watch the one-minute demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7526848608382492672/)
+
 [Watch system demonstrations on the Golden Cloud YouTube channel](https://www.youtube.com/@GoldenCloud_1)
 
 ## Selected work
