@@ -8,7 +8,7 @@ I develop database-driven business applications, REST APIs, and reporting soluti
 
 With 8+ years of software development experience, my foundation is Oracle APEX, PL/SQL, Oracle Database, and ORDS. My recent work also includes AI application engineering, model integrations, and Python backend development.
 
-[Explore my bilingual portfolio](https://mahmoodsufyan.github.io/oracle-apex-portfolio/) · [CV in English](https://mahmoodsufyan.github.io/oracle-apex-portfolio/assets/Mahmood_Sufyan_CV_EN.pdf) · [السيرة العربية](https://mahmoodsufyan.github.io/oracle-apex-portfolio/assets/Mahmood_Sufyan_CV_AR.pdf)
+[Explore my bilingual portfolio](https://mahmoodsufyan.github.io/) · [CV in English](https://mahmoodsufyan.github.io/assets/Mahmood_Sufyan_CV_EN.pdf) · [السيرة العربية](https://mahmoodsufyan.github.io/assets/Mahmood_Sufyan_CV_AR.pdf)
 
 ## Technical focus
 
@@ -37,9 +37,9 @@ The platform covered recruitment, service transfers, worker rental, HR, accounti
 
 | Project | What it demonstrates |
 | --- | --- |
-| [OrderMind](https://mahmoodsufyan.github.io/oracle-apex-portfolio/ordermind.html) — personal project | Conceived and developed from scratch with AI-assisted tools. Laravel/PHP application for extracting structured order data from text and images, with validation, provider routing, retry/cost controls, and evaluation. In development; source remains private. |
-| [Z-STUDIO OS](https://mahmoodsufyan.github.io/oracle-apex-portfolio/z-studio.html) — personal project | Conceived and developed from scratch with AI-assisted tools. Python/FastAPI backend for content and media workflows, provider adapters, dependency-aware background tasks, state tracking, and storage. In development; source remains private. |
-| [Shabic](https://mahmoodsufyan.github.io/oracle-apex-portfolio/shabic.html) — company project | End-to-end development using AI-assisted tools. Company ownership and private source are preserved; AI-assisted development does not imply AI features inside the product. |
+| [OrderMind](https://mahmoodsufyan.github.io/ordermind.html) — personal project | Conceived and developed from scratch with AI-assisted tools. Laravel/PHP application for extracting structured order data from text and images, with validation, provider routing, retry/cost controls, and evaluation. In development; source remains private. |
+| [Z-STUDIO OS](https://mahmoodsufyan.github.io/z-studio.html) — personal project | Conceived and developed from scratch with AI-assisted tools. Python/FastAPI backend for content and media workflows, provider adapters, dependency-aware background tasks, state tracking, and storage. In development; source remains private. |
+| [Shabic](https://mahmoodsufyan.github.io/shabic.html) — company project | End-to-end development using AI-assisted tools. Company ownership and private source are preserved; AI-assisted development does not imply AI features inside the product. |
 | **Oracle APEX accounting and ERP core** — private project | Accounting, sales, purchasing, and inventory workflows using Oracle APEX, PL/SQL, and ORDS. An existing application core with further SaaS capabilities planned; not presented as a completed SaaS ERP. |
 | **APEX AI Lab** — private experimental project | Exploring AI-assisted Oracle APEX development with APEXlang, SQLcl, and a validated export/edit/import workflow. Local-model integration is under investigation. |
 | [Loan and amortization engine](https://github.com/mahmoodsufyan/loan-management-system) | Public Python/FastAPI demo of repayment calculations and credit workflows. [Oracle implementation case study](https://github.com/mahmoodsufyan/loan-management-system/blob/main/docs/CASE_STUDY.md). |
