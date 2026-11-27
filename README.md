@@ -23,7 +23,7 @@ With 8+ years of software development experience, my foundation is Oracle APEX, 
 **Bilingual, multi-tenant recruitment SaaS platform**  
 Golden Network for Information Systems Technology · August 2022–August 2026
 
-I was the primary developer on the project, handling requirements analysis, database design, PL/SQL packages and business logic, Oracle APEX applications, and reports. I completed most of the development within the project team and also provided maintenance and technical support.
+As the primary developer on the team, I designed the Oracle schema and built the core PL/SQL packages, APEX modules, and reports. I analyzed requirements with colleagues and supported the platform in production.
 
 The platform covered recruitment, service transfers, worker rental, HR, accounting, and subscriptions.
 
@@ -33,16 +33,28 @@ The platform covered recruitment, service transfers, worker rental, HR, accounti
 
 [Watch system demonstrations on the Golden Cloud YouTube channel](https://www.youtube.com/@GoldenCloud_1)
 
+## National Microfinance Foundation
+
+I developed three Oracle applications and workflows at the foundation in Sanaa, from April 2020 to August 2022.
+
+- **Financing management** covered financial and agricultural feasibility assessments, approvals, installment schedules, and repayment tracking.
+- **Nano payments** connected bill payments and mobile top-ups through ORDS. I implemented reconciliation between payments and accounting entries to identify transactions missing a voucher.
+- **Journal posting and financial closing** covered journal review and posting, receipt and payment vouchers, and closing profit and loss accounts.
+
+[Read the case study in English](https://mahmoodsufyan.github.io/national-microfinance.html) · [دراسة الحالة بالعربية](https://mahmoodsufyan.github.io/national-microfinance-ar.html)
+
+At Abu Nabil Alqaramani, I developed **Hayat** for money transfers and financial accounts, including the APIs connecting the mobile app to the system.
+
 ## Selected work
 
 | Project | What it demonstrates |
 | --- | --- |
 | [OrderMind](https://mahmoodsufyan.github.io/ordermind.html) — personal project | Conceived and developed from scratch with AI-assisted tools. Laravel/PHP application for extracting structured order data from text and images, with validation, provider routing, retry/cost controls, and evaluation. In development; source remains private. |
 | [Z-STUDIO OS](https://mahmoodsufyan.github.io/z-studio.html) — personal project | Conceived and developed from scratch with AI-assisted tools. Python/FastAPI backend for content and media workflows, provider adapters, dependency-aware background tasks, state tracking, and storage. In development; source remains private. |
-| [Shabic](https://mahmoodsufyan.github.io/shabic.html) — company project | End-to-end development using AI-assisted tools. Company ownership and private source are preserved; AI-assisted development does not imply AI features inside the product. |
-| **Oracle APEX accounting and ERP core** — private project | Accounting, sales, purchasing, and inventory workflows using Oracle APEX, PL/SQL, and ORDS. An existing application core with further SaaS capabilities planned; not presented as a completed SaaS ERP. |
-| **APEX AI Lab** — private experimental project | Exploring AI-assisted Oracle APEX development with APEXlang, SQLcl, and a validated export/edit/import workflow. Local-model integration is under investigation. |
-| [Loan and amortization engine](https://github.com/mahmoodsufyan/loan-management-system) | Public Python/FastAPI demo of repayment calculations and credit workflows. [Oracle implementation case study](https://github.com/mahmoodsufyan/loan-management-system/blob/main/docs/CASE_STUDY.md). |
+| [Shabic](https://mahmoodsufyan.github.io/shabic.html) — company project | I developed the catalog, order reservations with expiration, and payment-attempt tracking for a company, using AI-assisted development tools. |
+| **Accounting, sales and inventory application** — private, unfinished project | I developed accounting, invoicing, and inventory functionality with Oracle APEX, PL/SQL, and ORDS. |
+| [APEX AI Lab](https://mahmoodsufyan.github.io/apex-ai-lab.html) — technical lab | APEXlang report, form, and search pages, with SQLcl export, validation, import, and shell tests. |
+| [Financing Management Demo with FastAPI](https://github.com/mahmoodsufyan/loan-management-system) | Public Python/FastAPI demo of repayment calculations and credit workflows. [Oracle implementation case study](https://github.com/mahmoodsufyan/loan-management-system/blob/main/docs/CASE_STUDY.md). |
 | [Financial ledger API](https://github.com/mahmoodsufyan/financial-ledger-api) | Public Python/FastAPI demo of double-entry accounting and voucher workflows. [Oracle implementation case study](https://github.com/mahmoodsufyan/financial-ledger-api/blob/main/docs/CASE_STUDY.md). |
 | [Oracle APEX Interactive Grid example](https://github.com/mahmoodsufyan/apex_IG_hide_columns) | A practical SQL and JavaScript example for showing and hiding Interactive Grid columns. |
 
